@@ -1,0 +1,13 @@
+server = ''
+username = ''
+apiToken = ''
+workspaceID = ''
+ApplicationID = ""
+tenantID = ''
+SecretValue = ''
+mail_receiver = ''
+mail_subject = ''
+S1disabledId = ''
+S1disabledArchiveID = ''
+S1enabledId = ''
+S1enabledArchiveId = ''
